@@ -8,3 +8,4 @@
 ## Sample route for residential waste colletion
 
 ![Sample routes](garbage_routes_Brigham_city.png)
+   
