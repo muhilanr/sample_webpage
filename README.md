@@ -5,5 +5,6 @@
 >Example include 
 - Postal deliveries
  - Residential waste collection
+## Sample route for residential waste colletion
 
-	![Sample routes](garbage_routes_Brigham_city.png)
+![Sample routes](garbage_routes_Brigham_city.png)
